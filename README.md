@@ -43,5 +43,5 @@ AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.p
 
 * **Semantic Audio-Visual Navigation in Continuous Environments** <br>
 *Yichen Zeng, Hebaixu Wang, Meng Liu, Yu Zhou, Chen Gao, Kehan Chen, Gongping Huang* <br>
-CVPR, 2026. [[Paper]](https://arxiv.org/abs/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE)[[Website]](https://github.com/yichenzeng24/SAVN-CE) [ppt](duyunbo/杜昀博组会 汇报.pptx)
+CVPR, 2026. [[Paper]](https://arxiv.org/abs/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE)[[Website]](https://github.com/yichenzeng24/SAVN-CE) [ppt](duyunbo/杜昀博组会汇报pptx)
   
