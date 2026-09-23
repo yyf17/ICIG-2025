@@ -17,3 +17,9 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link) [[ppt]](link)
 *Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
 ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
+
+* **NaVLA2: AVision-Language-Audio-Action Model for Multimodal Instruction
+Navigation** <br>
+*Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
+AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA)
+
