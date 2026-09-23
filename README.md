@@ -28,3 +28,7 @@ Navigation** <br>
 *Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
 AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA) [[PPT]](https://github.com/yyf17/ICIG-2025/blame/main/wangbo/NaVLA%C2%B2.pptx)
 
+* **Learning to Chase: Adaptive Audio-Visual Navigation for Moving Sounds in Complex Environments** <br>
+  *Yuanzheng He, Yuyi Liu, Chenfan Zhang, Dongchen Zhu, Lei Wang* <br>
+  Pattern Recognition Letters, 2026. [[Paper]](https://doi.org/10.1016/j.patrec.2026.05.012) [ppt](wanghaonan/2026-7-24王浩南.pptx)
+  
