@@ -26,7 +26,7 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://v
   AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28167)[ppt](wanghaonan/2026-4-30王浩南.pptx)
 * **Towards Audio-Visual Navigation in Noisy Environments: A Large-scale Benchmark Dataset and An Architecture Considering Multiple Sound-Sources** <br>
   *Zhanbo Shi, Lin Zhang, Linfei Li, Ying Shen* <br>
-  AAAI, 2025. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33608) [Code](https://github.com/ZhanboShiAI/ENMuS) [Website](https://github.com/ZhanboShiAI/ENMuS) [ppt](fanzhenglei/2026-9-16-樊正磊组会.pptx)
+  AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33608) [[Code]](https://github.com/ZhanboShiAI/ENMuS) [[Website]](https://github.com/ZhanboShiAI/ENMuS) [[ppt]](fanzhenglei/2026-9-16-樊正磊组会.pptx)
 
 * **NaVLA2: AVision-Language-Audio-Action Model for Multimodal Instruction
 Navigation** <br>
