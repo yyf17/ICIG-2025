@@ -26,5 +26,5 @@ ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://v
 * **NaVLA2: AVision-Language-Audio-Action Model for Multimodal Instruction
 Navigation** <br>
 *Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
-AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA)
+AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA) [[PPT]](https://github.com/yyf17/ICIG-2025/blame/main/wangbo/NaVLA%C2%B2.pptx)
 
