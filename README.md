@@ -32,7 +32,7 @@ AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.p
   *Yuanzheng He, Yuyi Liu, Chenfan Zhang, Dongchen Zhu, Lei Wang* <br>
   Pattern Recognition Letters, 2026. [[Paper]](https://doi.org/10.1016/j.patrec.2026.05.012) [ppt](wanghaonan/2026-7-24王浩南.pptx)
 
-  * **CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
+* **CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
   *Xiulong Liu, Sudipta Paul, Moitreya Chatterjee, Anoop Cherian* <br>
   AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28167)[ppt](wanghaonan/2026-4-30王浩南.pptx)
 
