@@ -44,4 +44,14 @@ AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.p
 * **Semantic Audio-Visual Navigation in Continuous Environments** <br>
 *Yichen Zeng, Hebaixu Wang, Meng Liu, Yu Zhou, Chen Gao, Kehan Chen, Gongping Huang* <br>
 CVPR, 2026. [[Paper]](https://arxiv.org/abs/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE)[[Website]](https://github.com/yichenzeng24/SAVN-CE) [ppt](duyunbo/杜昀博组会汇报pptx)
+
+* **Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation** <br>
+*Jinyu Chen, Wenguan Wang, Si Liu, Hongsheng Li, Yi Yang* <br>
+ICCV, 2023. [[Paper]](https://arxiv.org/abs/2308.10306) [[Code]](https://github.com/chenjinyu1998/ORAN) [[Website]](https://openreview.net/forum?id=qMpc6d3d_0) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/fanyibo/2026-7-9范艺博.pptx)
+
+* **Learning to Set Waypoints for Audio-Visual Navigation** <br>
+*Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622) [[Code]](https://github.com/facebookresearch/audio_visual_waypoints) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/fanyibo/2026-8-6范艺博.pptx)
+
+
   
