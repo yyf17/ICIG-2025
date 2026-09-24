@@ -51,7 +51,7 @@ ICCV, 2023. [[Paper]](https://arxiv.org/abs/2308.10306) [[Code]](https://github.
 
 * **Learning to Set Waypoints for Audio-Visual Navigation** <br>
 *Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
-ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622) [[Code]](https://github.com/facebookresearch/audio_visual_waypoints) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/fanyibo/2026-8-6范艺博.pptx)
+ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622) [[Code]](https://github.com/facebookresearch/audio_visual_waypoints) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/fanyibo/2026-8-6范艺博.pptx)范艺博
 
 
   
