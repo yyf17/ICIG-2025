@@ -91,7 +91,7 @@ IEEE 2024 [[Paper]](https://ieeexplore.ieee.org/document/10802636)[[Code]](https
 
 * **What’s Making That Sound Right Now? Video-centric Audio-Visual Localization** <br>
 *Hahyeon Choi Junhoo Lee Nojun Kwak* <br>
-IEEE 2024 [[paper]](https://arxiv.org/pdf/2507.04667)[[Code]](https://huggingface.co/datasets/mipal/AVATAR)[[website]](https://hahyeon610.github.io/Video-centric_Audio_Visual_Localization/)
+ICCV 2025 [[paper]](https://arxiv.org/pdf/2507.04667)[[Code]](https://huggingface.co/datasets/mipal/AVATAR)[[website]](https://hahyeon610.github.io/Video-centric_Audio_Visual_Localization/)
 
 * **Pay Self-Attention to Audio-Visual Navigation** <br>
 *Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
