@@ -55,7 +55,7 @@ ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622) [[Code]](https://github.
 
 * **Semantic Audio-Visual Navigation** <br>
 *Changan Chen，Ziad Al-Halah1 Kristen Grauman，UT Austin，Facebook AI Research* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583) [[Code]](https://github.com/facebookresearch/sound-spaces/releases) [[Website]]https://arxiv.org/abs/2012.11583) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2025.12.05.pptx)
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583) [[Code]](https://github.com/facebookresearch/sound-spaces/releases) [[Website]](https://arxiv.org/abs/2012.11583) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2025.12.05.pptx)
 
 
   
