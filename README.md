@@ -64,4 +64,7 @@ Computer Science, 2025. [[Paper]](https://arxiv.org/pdf/2512.21627) [[Code]](htt
 * **Multi-Object Navigation with dynamically learned neural implicit representations** <br>
 *Pierre Marza,Laëtitia Matignon,Olivier Simonin,Christian Wolf* <br>
 ICCV 2023 [[Paper]](https://arxiv.org/pdf/2210.05129) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]](https://arxiv.org/abs/2210.05129)
-  
+
+* **Multi-goal Audio-visual Navigation using Sound Direction Map** <br>
+*Haru Kondoh and Asako Kanezaki* <br>
+Computer Science 2023 [[Paper]](https://arxiv.org/pdf/2308.00219v1) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]]()[[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2026.07.26.pptx)
