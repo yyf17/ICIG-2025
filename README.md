@@ -75,4 +75,8 @@ Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/pdf/
 
 * **DISPATCH: DISTILLING SELECTIVEPATCHESFORSPEECHENHANCEMENT** <br>
 *Dohwan Kim and Jung-Woo Choi* <br>
-Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/abs/2509.15922) [[Code]](https://github.com/rlaehghks5/DISPATCH) [[Website]]()[[website]](https://arxiv.org/abs/2509.15922)
+Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/abs/2509.15922) [[Code]](https://github.com/rlaehghks5/DISPATCH)[[website]](https://arxiv.org/abs/2509.15922)
+
+* **CAVEN: AnEmbodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
+*Xiulong Liu, Sudipta Paul, Moitreya Chatterjee, Anoop Cherian* <br>
+AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047) [[Code]] [[website]](https://arxiv.org/abs/2306.04047)
