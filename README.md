@@ -87,4 +87,4 @@ CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_R
 
 * **Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction** <br>
 *Changan Chen, Jordi Ramos, Anshul Tomar, Kristen Grauman* <br>
-IEEE 2024 [[Paper]](https://ieeexplore.ieee.org/document/10802636) [[Code]] (https://github.com/OpenImagingLab/sim2real)[[website]](https://ieeexplore.ieee.org/document/10802636)
+IEEE 2024 [[Paper]](https://ieeexplore.ieee.org/document/10802636)[[Code]](https://github.com/OpenImagingLab/sim2real)[[website]](https://ieeexplore.ieee.org/document/10802636)
