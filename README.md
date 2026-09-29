@@ -79,4 +79,8 @@ Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/abs/
 
 * **CAVEN: AnEmbodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
 *Xiulong Liu, Sudipta Paul, Moitreya Chatterjee, Anoop Cherian* <br>
-AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047) [[Code]] [[website]](https://arxiv.org/abs/2306.04047)
+AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047)  [[website]](https://arxiv.org/abs/2306.04047)
+
+* **RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation** <br>
+*Zeyuan Yang,Jiageng Liu,Peihao Chen, Anoop Cherian,Tim K. Marks, Jonathan Le Roux, Chuang Gan* <br>
+CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) [[Code]] [[website]](https://rila-savn.github.io/RILA/)
