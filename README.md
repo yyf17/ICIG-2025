@@ -83,4 +83,4 @@ AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047)  [[website]](https://arxi
 
 * **RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation** <br>
 *Zeyuan Yang,Jiageng Liu,Peihao Chen, Anoop Cherian,Tim K. Marks, Jonathan Le Roux, Chuang Gan* <br>
-CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) [[Code]] [[website]](https://rila-savn.github.io/RILA/)
+CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) [[website]](https://rila-savn.github.io/RILA/)
