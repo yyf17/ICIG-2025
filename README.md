@@ -60,4 +60,8 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583) [[Code]](https://github.
 * **AstraNav-Memory: Contexts Compression for Long Memory** <br>
 *Botao Ren, Junjun Hu, Xinda Xue,, Minghua Luo, Jintao Chen, Haochen Bai,Liangliang You, Mu Xu* <br>
 Computer Science, 2025. [[Paper]](https://arxiv.org/pdf/2512.21627) [[Code]](https://github.com/amap-cvlab/AstraNav-Memory) [[Website]](https://github.com/amap-cvlab/AstraNav-Memory) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2026.3.20.pptx)
+
+* **Multi-Object Navigation with dynamically learned neural implicit representations** <br>
+*Pierre Marza,Laëtitia Matignon,Olivier Simonin,Christian Wolf* <br>
+ICCV 2023 [[Paper]](https://arxiv.org/pdf/2210.05129) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]](https://arxiv.org/abs/2210.05129)
   
