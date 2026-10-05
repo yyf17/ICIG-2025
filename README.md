@@ -104,3 +104,7 @@ IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https:
 * **Dynamic Multi-Target Fusion for Efficient Audio-Visual Navigation** <br>
 *Yinfeng Yu, Hailong Zhang, Meiling Zhu* <br>
 ECAI, 2025. [[Paper]](https://arxiv.org/pdf/2509.21377.pdf) [[Code]](https://github.com/zzzmmm-svg/DMTF)
+
+* **SignNav: Leveraging Signage for Semantic Visual Navigation in Large-Scale Indoor Environments** <br>
+*Jian Sun, Yuming Huang, He Li, Shuqi Xiao, Shenyan Guo, Maani Ghaffari, Qingbiao Li, Chengzhong Xu, Hui Kong* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)[ppt](wanghaonan/2026-3-21王浩南.pptx)
