@@ -108,3 +108,16 @@ ECAI, 2025. [[Paper]](https://arxiv.org/pdf/2509.21377.pdf) [[Code]](https://git
 * **SignNav: Leveraging Signage for Semantic Visual Navigation in Large-Scale Indoor Environments** <br>
 *Jian Sun, Yuming Huang, He Li, Shuqi Xiao, Shenyan Guo, Maani Ghaffari, Qingbiao Li, Chengzhong Xu, Hui Kong* <br>
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)[ppt](wanghaonan/2026-3-21王浩南.pptx)
+
+* **Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation** <br>
+*Zhixuan Shen, Jiawei Du, Ziyu Guo, Han Luo, Lilan Peng, Joey Tianyi Zhou, Haonan Luo, Tianrui Li* <br>
+ICML, 2026. [[Paper]](https://arxiv.org/abs/2605.10118) [[Code]](https://github.com/FrankZxShen/SAGE) [[Website]](https://frankzxshen.github.io/SAGE/)
+
+* **HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control** <br>
+*Li Ji, Siyin Wang, Pengfang Qian, Xiaopeng Yu, Yihai Tian, Zhaoye Fei, Jingjing Gong, Xipeng Qiu* <br>
+ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/ji26k.html) [[Code]](https://github.com/HappyWaterXP/HiMe) [[Website]](https://happywaterxp.github.io/HiMe/)
+
+* **HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning** <br>
+*Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, Hao Huang, Jie Zhang, Song Guo* <br>
+ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/shou26a.html) [[Code]](https://github.com/qshou-coder/HALO) [[Website]](https://qshou-coder.github.io/HALO/)
+
