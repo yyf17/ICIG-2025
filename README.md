@@ -101,6 +101,11 @@ AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33608
 
 #### 2026-9-15杜昀博.pptx [ppt](duyunbo/ENMuS3_BeDAViN_论文组会汇报.pptx)
 
+### 2026-10-8
+#### * **Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation** <br>
+*Teng Liu, Yinfeng Yu* <br>
+IJCNN, 2026. [[Paper]](https://arxiv.org/pdf/2604.02391) [Code:] [[Website]](https://arxiv.org/abs/2604.02391)
+
 
 ## fanyibo
 
