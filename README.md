@@ -84,7 +84,7 @@ ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/shou26a.html) [[Code]](
 *Yichen Zeng, Hebaixu Wang, Meng Liu, Yu Zhou, Chen Gao, Kehan Chen, Gongping Huang* <br>
 CVPR, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_Semantic_Audio-Visual_Navigation_in_Continuous_Environments_CVPR_2026_paper.pdf) [[Code]](https://github.com/yichenzeng24/SAVN-CE)
 
-#### 2026-7-22杜昀博.pptx[ppt](duyunbo/杜昀博组会 汇报.pptx)
+#### 2026-7-22杜昀博.pptx [ppt](duyunbo/杜昀博组会汇报.pptx)
 
 ## fanyibo
 
