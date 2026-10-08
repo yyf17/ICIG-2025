@@ -32,7 +32,6 @@ Presentation (If it is your turn to present a paper this week.)
 arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)
 #### Presentation
 2026-3-21王浩南.pptx[ppt](wanghaonan/2026-3-21王浩南.pptx)
-
 ### 2026-4-30
 #### Paper
 * **CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
@@ -40,7 +39,6 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)
   AAAI, 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28167)
 #### Presentation
 2026-4-30王浩南.pptx [ppt](wanghaonan/2026-4-30王浩南.pptx)
-
 ### 2026-7-30
 #### Paper
 * **Learning to Chase: Adaptive Audio-Visual Navigation for Moving Sounds in Complex Environments** <br>
@@ -48,7 +46,6 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)
   Pattern Recognition Letters, 2026. [[Paper]](https://doi.org/10.1016/j.patrec.2026.05.012) 
 #### Presentation
 2026-7-24王浩南.pptx[ppt](wanghaonan/2026-7-24王浩南.pptx)
-
 ### 2026-8-21
 #### Paper
 * **TagaVLM: Topology-Aware Global Action Reasoning for Vision-Language Navigation** <br>
@@ -64,19 +61,16 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)
   NeurIPS, 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28f699175783a2c828ae74d53dd3da20-Abstract-Conference.html) [[Code]](https://github.com/merlresearch/avlen) [[Website]](https://www.merl.com/research/downloads/AVLEN)
 #### Presentation
 2026-9-16王浩南.pptx [ppt](wanghaonan/2026-9-16王浩南.pptx)
-
 ### 2026-9-25
 #### Paper
 * **Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation** <br>
 *Zhixuan Shen, Jiawei Du, Ziyu Guo, Han Luo, Lilan Peng, Joey Tianyi Zhou, Haonan Luo, Tianrui Li* <br>
 ICML, 2026. [[Paper]](https://arxiv.org/abs/2605.10118) [[Code]](https://github.com/FrankZxShen/SAGE) [[Website]](https://frankzxshen.github.io/SAGE/)
-
 ### 2026-9-27
 #### Paper
 * **HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control** <br>
 *Li Ji, Siyin Wang, Pengfang Qian, Xiaopeng Yu, Yihai Tian, Zhaoye Fei, Jingjing Gong, Xipeng Qiu* <br>
 ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/ji26k.html) [[Code]](https://github.com/HappyWaterXP/HiMe) [[Website]](https://happywaterxp.github.io/HiMe/)
-
 ### 2026-9-30
 #### Paper
 * **HALO: A Unified Vision-Language-Action Model for Embodied Multimodal Chain-of-Thought Reasoning** <br>
