@@ -85,9 +85,41 @@ ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/shou26a.html) [[Code]](
 
 ## fanyibo
 
-### date
-#### Paper
-#### Presentation
+### 2026-7-9
+#### * **Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation** <br>
+*Jinyu Chen, Wenguan Wang, Si Liu, Hongsheng Li, Yi Yang* <br>
+arXiv, 2023. [[Paper]](https://arxiv.org/abs/2308.10306) [[Code]](https://github.com/chenjinyubuaa/ORAN)
+#### 2026-7-9范艺博.pptx [ppt](fanyibo/2026-7-9范艺博.pptx)
+
+### 2026-8-6
+#### * **Learning to Set Waypoints for Audio-Visual Navigation** <br>
+*Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622)
+#### 2026-8-6范艺博.pptx [ppt](fanyibo/2026-8-6范艺博.pptx)
+
+### 2026-9-2
+#### * **Spatial-Aware Conditioned Fusion for Audio-Visual Navigation** <br>
+*Shaohang Wu, Yinfeng Yu* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2604.02390)
+#### 2026-9-2范艺博.pptx [ppt](fanyibo/2026-9-2范艺博.pptx)
+
+### 2026-9-25
+#### * **Vienna: Versatile Embodied Navigation Agent for Multiple Navigation Tasks including Audio-Goal Navigation** <br>
+*Hanqing Wang, Wei Liang, Luc V. Gool, Wenguan Wang* <br>
+NeurIPS, 2022. [[Paper]](https://proceedings.nips.cc/paper_files/paper/2022/hash/ef4f2a0232a246b8a502135175e08953-Abstract-Conference.html)
+
+### 2026-9-27
+#### * **Embodied Navigation Foundation Model (NavFoM): A Unified Foundation Model for Cross-Embodiment Cross-Task Navigation** <br>
+*Jiazhao Zhang, Anqi Li, Yunpeng Qi, Minghan Li, Jiahang Liu, Shaoan Wang, Haoran Liu, Gengze Zhou, Yuze Wu, Xingxing Li, Yuxin Fan, Wenjun Li, Zhibo Chen, Fei Gao, Qi Wu, Zhizheng Zhang, He Wang* <br>
+ICLR, 2026. [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2026/file/ceb45c48e29e7f49b0b47edb98e43691-Paper-Conference.pdf) [[Website]](https://pku-epic.github.io/NavFoM-Web/)
+
+### 2026-9-30
+#### * **RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation** <br>
+*Zeyuan Yang, Jiageng Lin, Peihao Chen, Anoop Cherian, Tim K. Marks, Jonathan Le Roux, Chuang Gan* <br>
+CVPR, 2024. [[Paper]](https://doi.org/10.1109/CVPR52733.2024.01538)
+#### 2026-9-30范艺博.pptx [ppt](fanyibo/2026-9-30范艺博.pptx)
+
+
 
 ## fanzhenglei
 
