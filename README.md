@@ -99,6 +99,7 @@ ICCV, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Marz
 *Zhanbo Shi, Lin Zhang, Linfei Li, Ying Shen* <br>
 AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33608/35763) [[Code]](https://github.com/ZhanboShiAI/ENMuS) [[Website]](https://ojs.aaai.org/index.php/AAAI/article/view/33608)
 
+#### 2026-9-15杜昀博.pptx [ppt](duyunbo/ENMuS3_BeDAViN_论文组会汇报.pptx)
 
 
 ## fanyibo
