@@ -79,6 +79,15 @@ ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/shou26a.html) [[Code]](
 
 ## duyunbo
 
+
+### 2026-5-13
+#### * **Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation** <br>
+*Teng Liu, Yinfeng Yu* <br>
+IJCNN, 2026. [[Paper]](https://arxiv.org/pdf/2604.02391) [Code:] [[Website]](https://arxiv.org/abs/2604.02391)
+
+#### 2026-5-13杜昀博.pptx [ppt](duyunbo/杜昀博组会汇报3.pptx)
+
+
 ### 2026-7-22
 #### * **Semantic Audio-Visual Navigation in Continuous Environments** <br>
 *Yichen Zeng, Hebaixu Wang, Meng Liu, Yu Zhou, Chen Gao, Kehan Chen, Gongping Huang* <br>
@@ -101,10 +110,7 @@ AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33608
 
 #### 2026-9-15杜昀博.pptx [ppt](duyunbo/ENMuS3_BeDAViN_论文组会汇报.pptx)
 
-### 2026-10-8
-#### * **Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation** <br>
-*Teng Liu, Yinfeng Yu* <br>
-IJCNN, 2026. [[Paper]](https://arxiv.org/pdf/2604.02391) [Code:] [[Website]](https://arxiv.org/abs/2604.02391)
+
 
 
 ## fanyibo
