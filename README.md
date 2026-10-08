@@ -39,7 +39,7 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2603.16166)
 
 #### 2026-4-30王浩南.pptx [ppt](wanghaonan/2026-4-30王浩南.pptx)
 
-### 2026-7-30
+### 2026-7-24
 #### * **Learning to Chase: Adaptive Audio-Visual Navigation for Moving Sounds in Complex Environments** <br>
   *Yuanzheng He, Yuyi Liu, Chenfan Zhang, Dongchen Zhu, Lei Wang* <br>
   Pattern Recognition Letters, 2026. [[Paper]](https://doi.org/10.1016/j.patrec.2026.05.012) 
