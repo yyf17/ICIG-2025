@@ -111,6 +111,19 @@ AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33608
 #### 2026-9-15杜昀博.pptx [ppt](duyunbo/ENMuS3_BeDAViN_论文组会汇报.pptx)
 
 
+### 2026-10-2
+
+#### * **RAO-Nav: Probing Omni-Language Models for Zero-shot Semantic Audio-Visual Navigation** <br>
+*Qilang Ye, Meng Liu, Yu Zhou* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/pdf/2609.32224) [[Code]](https://github.com/rikeilong/OmniAV_Nav) [[Website]](https://arxiv.org/abs/2609.32224)
+
+
+### 2026-10-6
+
+#### * **LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation** <br>
+*Rufeng Chen, Yue Chang, Zili Shao, Zhaofan Zhang, Li Chen, Hechang Chen, Hui Xiong, Sihong Xie* <br>
+arXiv, 2026. [[Paper]](https://arxiv.org/pdf/2607.03920) [Code:] [[Website]](https://arxiv.org/abs/2607.03920)
+
 
 
 ## fanyibo
