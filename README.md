@@ -86,6 +86,14 @@ CVPR, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng
 
 #### 2026-7-22杜昀博.pptx [ppt](duyunbo/杜昀博组会汇报.pptx)
 
+
+### 2026-8-20
+#### * **Multi-Object Navigation with Dynamically Learned Neural Implicit Representations** <br>
+*Pierre Marza, Laetitia Matignon, Olivier Simonin, Christian Wolf* <br>
+ICCV, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Marza_Multi-Object_Navigation_with_Dynamically_Learned_Neural_Implicit_Representations_ICCV_2023_paper.pdf) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]](https://pierremarza.github.io/projects/dynamic_implicit_representations/)
+
+#### 2026-7-22杜昀博.pptx [ppt](duyunbo/杜昀博组会汇报2.pptx)
+
 ## fanyibo
 
 ### 2026-7-9
