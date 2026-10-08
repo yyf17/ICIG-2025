@@ -141,22 +141,30 @@ CVPR, 2024. [[Paper]](https://doi.org/10.1109/CVPR52733.2024.01538)
 
 ## fanzhenglei
 
+### 2026-9-24
 #### * **Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction** <br>
 *Changan Chen, Jordi Ramos, Anshul Tomar, Kristen Grauman* <br>
 IEEE, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10802636) [[Code]](https://github.com/OpenImagingLab/sim2real) [[Website]](https://ieeexplore.ieee.org/document/10802636)
 
+### 2026-9-28
 #### * **What’s Making That Sound Right Now? Video-centric Audio-Visual Localization** <br>
 *Hahyeon Choi, Junhoo Lee, Nojun Kwak* <br>
 ICCV, 2025. [[Paper]](https://arxiv.org/pdf/2507.04667) [[Code]](https://huggingface.co/datasets/mipal/AVATAR) [[Website]](https://hahyeon610.github.io/Video-centric_Audio_Visual_Localization/)
 
+### 2026-9-29
 #### * **Pay Self-Attention to Audio-Visual Navigation** <br>
 *Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
 BMVC, 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Code]](https://github.com/yyf17/FSAAVN) [[Website]](https://yyf17.github.io/FSAAVN/)
 
+### 2026-9-30
 #### * **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation** <br>
 *Hongcheng Wang, Yuxuan Wang, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
 IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https://github.com/wwwwwyyyyyxxxxx/SA2GVAN) [[Website]](https://sites.google.com/view/sasavan/)
 
+### 2026-10-8
+#### * **DSSNav: Dual-Stream Slot-Based Fusion via Soft Actor-Critic for Audio-Visual Navigation** <br>
+*Lei Li, Lijuan Duan, Kai Zhao, Bailu Si* <br>
+Multimedia Systems, 2026. [[Paper]](https://doi.org/10.1007/s00530-026-02363-1) [[Website]](https://link.springer.com/article/10.1007/s00530-026-02363-1)
 ## wangbo
 
 ### date
