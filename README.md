@@ -25,11 +25,14 @@ Presentation (If it is your turn to present a paper this week.)
 
 ## wanghaonan
 
-### 
+### 2026-9-16
 ####Paper
+* **AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments** <br>
+  *Sudipta Paul, Amit K. Roy-Chowdhury, Anoop Cherian* <br>
+  NeurIPS, 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/28f699175783a2c828ae74d53dd3da20-Abstract-Conference.html) [[Code]](https://github.com/merlresearch/avlen) [[Website]](https://www.merl.com/research/downloads/AVLEN)
 ####Presentation
-
-## duyumbo
+[ppt](wanghaonan/2026-9-16王浩南.pptx)
+## duyunbo
 
 ### date
 #### Paper
