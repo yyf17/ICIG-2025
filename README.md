@@ -7,15 +7,51 @@
 When sending PRs, please put the new paper at the correct chronological position as the following format: <br>
 
 ```
+Member xxx Presentations
+
+date :2026-xx-xx
+
+Paper
+
 * **Paper Title** <br>
 *Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link) [[ppt]](link)
+Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+
+Presentation (If it is your turn to present a paper this week.)
+
+[PPT]
 ```
 
 
-## 王浩南
+## wanghaonan
 
-### 年月日
+### 
+####Paper
+####Presentation
+
+## duyumbo
+
+### date
+#### Paper
+#### Presentation
+
+## fanyibo
+
+### date
+#### Paper
+#### Presentation
+
+## fanzhenglei
+
+### date
+#### Paper
+#### Presentation
+
+## wangbo
+
+### date
+#### Paper
+#### Presentation
 
 * **Learning to Set Waypoints for Audio-Visual Navigation** <br>
 *Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
