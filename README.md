@@ -207,9 +207,7 @@ Multimedia Systems, 2026. [[Paper]](https://doi.org/10.1007/s00530-026-02363-1) 
   
 ## wangbo
 
-### date
-#### Paper
-#### Presentation
+
 
 ### 2025-12-05
 * **Semantic Audio-Visual Navigation** <br>
@@ -249,6 +247,7 @@ Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/abs/
 * **CAVEN: AnEmbodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
 *Xiulong Liu, Sudipta Paul, Moitreya Chatterjee, Anoop Cherian* <br>
 AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047)  [[website]](https://arxiv.org/abs/2306.04047)
+
 ### 2026-8-30
 * **RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation** <br>
 *Zeyuan Yang,Jiageng Liu,Peihao Chen, Anoop Cherian,Tim K. Marks, Jonathan Le Roux, Chuang Gan* <br>
@@ -274,6 +273,7 @@ BMVC, 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Code]](https://git
 Navigation** <br>
 *Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
 AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA) [[PPT]](https://github.com/yyf17/ICIG-2025/blame/main/wangbo/NaVLA%C2%B2.pptx)
+
 ### 2026-9-28
 * **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation** <br>
 *Hongcheng Wang, Yuxuan Wang, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
