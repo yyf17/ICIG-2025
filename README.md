@@ -190,20 +190,24 @@ IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https:
 #### * **DSSNav: Dual-Stream Slot-Based Fusion via Soft Actor-Critic for Audio-Visual Navigation** <br>
 *Lei Li, Lijuan Duan, Kai Zhao, Bailu Si* <br>
 Multimedia Systems, 2026. [[Paper]](https://doi.org/10.1007/s00530-026-02363-1) [[Website]](https://link.springer.com/article/10.1007/s00530-026-02363-1)
+
+* **Towards Audio-Visual Navigation in Noisy Environments: A Large-scale Benchmark Dataset and An Architecture Considering Multiple Sound-Sources** <br>
+  *Zhanbo Shi, Lin Zhang, Linfei Li, Ying Shen* <br>
+  AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33608) [[Code]](https://github.com/ZhanboShiAI/ENMuS) [[Website]](https://github.com/ZhanboShiAI/ENMuS) [[ppt]](fanzhenglei/2026-9-16-樊正磊组会.pptx)
+  
 ## wangbo
 
 ### date
 #### Paper
 #### Presentation
 
+### 2026-7-22
 * **Learning to Set Waypoints for Audio-Visual Navigation** <br>
 *Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
 ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
-* **Towards Audio-Visual Navigation in Noisy Environments: A Large-scale Benchmark Dataset and An Architecture Considering Multiple Sound-Sources** <br>
-  *Zhanbo Shi, Lin Zhang, Linfei Li, Ying Shen* <br>
-  AAAI, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33608) [[Code]](https://github.com/ZhanboShiAI/ENMuS) [[Website]](https://github.com/ZhanboShiAI/ENMuS) [[ppt]](fanzhenglei/2026-9-16-樊正磊组会.pptx)
 
+### 2026-9-22
 * **NaVLA2: AVision-Language-Audio-Action Model for Multimodal Instruction
 Navigation** <br>
 *Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
@@ -226,6 +230,7 @@ ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622) [[Code]](https://github.
 *Changan Chen，Ziad Al-Halah1 Kristen Grauman，UT Austin，Facebook AI Research* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583) [[Code]](https://github.com/facebookresearch/sound-spaces/releases) [[Website]](https://arxiv.org/abs/2012.11583) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2025.12.05.pptx)
 
+### 2026-3-20
 * **AstraNav-Memory: Contexts Compression for Long Memory** <br>
 *Botao Ren, Junjun Hu, Xinda Xue,, Minghua Luo, Jintao Chen, Haochen Bai,Liangliang You, Mu Xu* <br>
 Computer Science, 2025. [[Paper]](https://arxiv.org/pdf/2512.21627) [[Code]](https://github.com/amap-cvlab/AstraNav-Memory) [[Website]](https://github.com/amap-cvlab/AstraNav-Memory) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2026.3.20.pptx)
@@ -233,19 +238,19 @@ Computer Science, 2025. [[Paper]](https://arxiv.org/pdf/2512.21627) [[Code]](htt
 * **Multi-Object Navigation with dynamically learned neural implicit representations** <br>
 *Pierre Marza,Laëtitia Matignon,Olivier Simonin,Christian Wolf* <br>
 ICCV 2023 [[Paper]](https://arxiv.org/pdf/2210.05129) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]](https://arxiv.org/abs/2210.05129)
-
+### 2026-7-26
 * **Multi-goal Audio-visual Navigation using Sound Direction Map** <br>
 *Haru Kondoh and Asako Kanezaki* <br>
 Computer Science 2023 [[Paper]](https://arxiv.org/pdf/2308.00219v1) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]]()[[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2026.07.26.pptx)
-
+### 2026-8-5
 * **SOUNDCOMPASS:NAVIGATINGTARGETSOUNDEXTRACTIONWITHEFFECTIVE DIRECTIONAL CLUEINTEGRATION INCOMPLEXACOUSTICSCENES** <br>
 *Dayun Choi, Jung-Woo Choi* <br>
 Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/pdf/2509.18561) [[Code]]()[[website]](https://arxiv.org/pdf/2509.18561)
-
+### 2026-8-16
 * **DISPATCH: DISTILLING SELECTIVEPATCHESFORSPEECHENHANCEMENT** <br>
 *Dohwan Kim and Jung-Woo Choi* <br>
 Electrical Engineering and Systems Science 2026 [[Paper]](https://arxiv.org/abs/2509.15922) [[Code]](https://github.com/rlaehghks5/DISPATCH)[[website]](https://arxiv.org/abs/2509.15922)
-
+### 2026-8-24
 * **CAVEN: AnEmbodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments** <br>
 *Xiulong Liu, Sudipta Paul, Moitreya Chatterjee, Anoop Cherian* <br>
 AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047)  [[website]](https://arxiv.org/abs/2306.04047)
