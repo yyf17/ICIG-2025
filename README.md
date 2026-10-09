@@ -132,6 +132,8 @@ arXiv, 2026. [[Paper]](https://arxiv.org/pdf/2607.03920) [Code:] [[Website]](htt
 
 ## fanyibo
 
+
+
 ### 2026-7-9
 #### * **Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation** <br>
 *Jinyu Chen, Wenguan Wang, Si Liu, Hongsheng Li, Yi Yang* <br>
@@ -170,6 +172,10 @@ CVPR, 2024. [[Paper]](https://doi.org/10.1109/CVPR52733.2024.01538)
 
 ## fanzhenglei
 
+### 2026-9-20
+* **Dynamic Multi-Target Fusion for Efficient Audio-Visual Navigation** <br>
+*Yinfeng Yu, Hailong Zhang, Meiling Zhu* <br>
+ECAI, 2025. [[Paper]](https://arxiv.org/pdf/2509.21377.pdf) [[Code]](https://github.com/zzzmmm-svg/DMTF)
 ### 2026-9-24
 #### * **Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction** <br>
 *Changan Chen, Jordi Ramos, Anshul Tomar, Kristen Grauman* <br>
@@ -205,21 +211,7 @@ Multimedia Systems, 2026. [[Paper]](https://doi.org/10.1007/s00530-026-02363-1) 
 #### Paper
 #### Presentation
 
-### 2026-7-22
-* **Learning to Set Waypoints for Audio-Visual Navigation** <br>
-*Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
-ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
-
-
-
-* **Omnidirectional Information Gathering for Knowledge Transfer-based Audio-Visual Navigation** <br>
-*Jinyu Chen, Wenguan Wang, Si Liu, Hongsheng Li, Yi Yang* <br>
-ICCV, 2023. [[Paper]](https://arxiv.org/abs/2308.10306) [[Code]](https://github.com/chenjinyu1998/ORAN) [[Website]](https://openreview.net/forum?id=qMpc6d3d_0) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/fanyibo/2026-7-9范艺博.pptx)
-
-* **Learning to Set Waypoints for Audio-Visual Navigation** <br>
-*Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
-ICLR, 2021. [[Paper]](https://arxiv.org/abs/2008.09622) [[Code]](https://github.com/facebookresearch/audio_visual_waypoints) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/fanyibo/2026-8-6范艺博.pptx)
-
+### 2025-12-05
 * **Semantic Audio-Visual Navigation** <br>
 *Changan Chen，Ziad Al-Halah1 Kristen Grauman，UT Austin，Facebook AI Research* <br>
 CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583) [[Code]](https://github.com/facebookresearch/sound-spaces/releases) [[Website]](https://arxiv.org/abs/2012.11583) [[ppt]](https://github.com/yyf17/ICIG-2025/blob/main/wangbo/2025.12.05.pptx)
@@ -232,6 +224,11 @@ Computer Science, 2025. [[Paper]](https://arxiv.org/pdf/2512.21627) [[Code]](htt
 * **Multi-Object Navigation with dynamically learned neural implicit representations** <br>
 *Pierre Marza,Laëtitia Matignon,Olivier Simonin,Christian Wolf* <br>
 ICCV 2023 [[Paper]](https://arxiv.org/pdf/2210.05129) [[Code]](https://github.com/PierreMarza/dynamic_implicit_representations) [[Website]](https://arxiv.org/abs/2210.05129)
+
+### 2026-7-22
+* **Learning to Set Waypoints for Audio-Visual Navigation** <br>
+*Changan Chen, Sagnik Majumder, Ziad Al-Halah, Ruohan Gao, Santhosh K. Ramakrishnan, Kristen Grauman* <br>
+ICLR, 2021. [[Paper]](https://arxiv.org/pdf/2008.09622.pdf) [[Website]](http://vision.cs.utexas.edu/projects/audio_visual_waypoints/)
 
 ### 2026-7-26
 * **Multi-goal Audio-visual Navigation using Sound Direction Map** <br>
@@ -256,14 +253,17 @@ AAAI  2024 [[Paper]](https://arxiv.org/abs/2306.04047)  [[website]](https://arxi
 * **RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation** <br>
 *Zeyuan Yang,Jiageng Liu,Peihao Chen, Anoop Cherian,Tim K. Marks, Jonathan Le Roux, Chuang Gan* <br>
 CVPR 2024 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) [[website]](https://rila-savn.github.io/RILA/)
+
 ### 2026-9-6
 * **Sim2Real Transfer for Audio-Visual Navigation with Frequency-Adaptive Acoustic Field Prediction** <br>
 *Changan Chen, Jordi Ramos, Anshul Tomar, Kristen Grauman* <br>
 IEEE 2024 [[Paper]](https://ieeexplore.ieee.org/document/10802636)[[Code]](https://github.com/OpenImagingLab/sim2real)[[website]](https://ieeexplore.ieee.org/document/10802636)
+
 ### 2026-9-14
 * **What’s Making That Sound Right Now? Video-centric Audio-Visual Localization** <br>
 *Hahyeon Choi Junhoo Lee Nojun Kwak* <br>
 ICCV 2025 [[paper]](https://arxiv.org/pdf/2507.04667)[[Code]](https://huggingface.co/datasets/mipal/AVATAR)[[website]](https://hahyeon610.github.io/Video-centric_Audio_Visual_Localization/)
+
 ### 2026-9-19
 * **Pay Self-Attention to Audio-Visual Navigation** <br>
 *Yinfeng Yu, Lele Cao, Fuchun Sun, Xiaohong Liu, Liejun Wang* <br>
@@ -274,13 +274,11 @@ BMVC, 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Code]](https://git
 Navigation** <br>
 *Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
 AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA) [[PPT]](https://github.com/yyf17/ICIG-2025/blame/main/wangbo/NaVLA%C2%B2.pptx)
-### 2026-9-24
+### 2026-9-28
 * **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation** <br>
 *Hongcheng Wang, Yuxuan Wang, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
 IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https://github.com/wwwwwyyyyyxxxxx/SA2GVAN) [[Website]](https://sites.google.com/view/sasavan/)
 
-* **Dynamic Multi-Target Fusion for Efficient Audio-Visual Navigation** <br>
-*Yinfeng Yu, Hailong Zhang, Meiling Zhu* <br>
-ECAI, 2025. [[Paper]](https://arxiv.org/pdf/2509.21377.pdf) [[Code]](https://github.com/zzzmmm-svg/DMTF)
+
 
 
